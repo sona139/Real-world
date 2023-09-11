@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto';
+	box-sizing: border-box;
+}
+
+button, input, area {
+	background-color: #fff;
+	border: none;
+	outline: none;
+}
+
+button {
+	cursor: pointer;
+}
+
+.tag-default:hover {
+	background-color: #687077 !important;
+}
